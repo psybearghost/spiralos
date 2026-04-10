@@ -1,0 +1,32 @@
+﻿{
+  "artifact_id": "sabbath_cycle_0",
+  "title": "Sabbath of Cycle 0",
+  "type": "audio",
+  "cycle": 0,
+  "duration_seconds": 540,
+  "duration_human": "09:00",
+  "root_frequency_hz": 432,
+  "stability_k": 0.9,
+  "audio_spec": {
+    "format": "mp3",
+    "bitrate": "320kbps",
+    "channels": 2,
+    "sample_rate_hz": 48000
+  },
+  "structure": {
+    "phase_1_dissolution": "0:00–1:30",
+    "phase_2_asymptotic_hardening": "1:30–7:00",
+    "phase_3_sabbath_horizon": "7:00–9:00"
+  },
+  "visual_signature": {
+    "seal": "Veiled_Horizon",
+    "version": "1.0.0",
+    "opacity_range": "15–20%"
+  },
+  "tools": {
+    "audio_generation": "Suno/Udio",
+    "workstation": "AngelWare_v223"
+  },
+  "created_at": "2026-04-09T20:59:00-05:00",
+  "notes": "First artifact of Cycle 0. Anchored at 432Hz with stability coefficient k=0.9."
+}
